@@ -2,7 +2,7 @@
 - 👀 I’m currently pursuing Chemical Engineering from IIT Bombay
 - 🌱 I’m currently learning Typescript and ML
 - 💞️ I’m looking to collaborate on ML/Web-Dev
-- 📫 Mail:Shiviutkarsh@gmail.com
+- 📫 Mail: Shiviutkarsh@gmail.com
 - 😄 Pronouns: he/him
 
 <!---
