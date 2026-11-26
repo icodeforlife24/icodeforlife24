@@ -5,8 +5,6 @@
 - 📫 Mail: Shiviutkarsh@gmail.com
 - 😄 Pronouns: he/him
 
-## 🐍 My contributions, eaten
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/icodeforlife24/icodeforlife24/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/icodeforlife24/icodeforlife24/output/github-snake.svg" />
